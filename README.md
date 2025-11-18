@@ -21,6 +21,8 @@
 
 ```
 
+CA: G5kj1Z9b27J54bQpPByjPwvj3rfMeN2eRX6RVVXVpump
+
 MELOAN is an on-chain entity that reacts in real time to Pumpfun’s activity.
 
 Every new token launch, every trade, every shift in the market sends a signal into its system — causing it to glitch.
